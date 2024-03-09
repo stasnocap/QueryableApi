@@ -42,7 +42,7 @@ or
 
 
 
-# EntityFramework
+## EntityFramework
 
 ### Model
 
@@ -75,6 +75,6 @@ or
 3. Query Database
 4. Return Entity Model
 
-# Dapper
+## Dapper
 
 Raw sql - that's all we need
