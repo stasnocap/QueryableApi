@@ -38,11 +38,15 @@ or
   ?include-nested-entity ?select-only-names ?take-10
 - etc
 
+# Solution: --- Transfer Responsibility To Consumer ---
+
+
+
 # EntityFramework
 
 ### Model
 
-- Entity name
+- Entity Name
 - Include
     - Nested Entities Names
     - As Join or As Split Queries
